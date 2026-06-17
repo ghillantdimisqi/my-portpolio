@@ -9,7 +9,7 @@ import Industries from "@/componenets/Sections/Industries";
 import Services from "@/componenets/Sections/Services";
 import Portfolio from "@/componenets/Sections/Portfolio"; 
 import Testimonials from "@/componenets/Sections/Testimonials"; 
-import Contact from "@/componenets/Sections/Contact"; 
+
 
 
 export default function Home() {
@@ -25,7 +25,6 @@ export default function Home() {
       <Services />
       <Portfolio />
       <Testimonials />
-      <Contact />
 
       <Footer />
 
