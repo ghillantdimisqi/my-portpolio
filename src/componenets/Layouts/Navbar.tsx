@@ -74,7 +74,7 @@ export default function PortfolioPage() {
               </svg>
             </div>
             <h2 className="text-lg md:text-xl font-bold tracking-wide">
-              Hi, I'm Ghillant Dimisqi
+              Hi, I m Ghillant Dimisqi
             </h2>
             <p className="text-xs md:text-sm text-white/70 leading-relaxed font-light">
               a frontend developer passionate about creating seamless digital
